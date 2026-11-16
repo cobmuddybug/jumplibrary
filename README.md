@@ -8,7 +8,7 @@ This repository serves as an open-access mirror for jumpdocs generated using a h
 
 This archive is maintained independently for players looking for playable jumps covering settings that don't yet have traditional community docs, or for solo jumpers who want a large, ready-to-use library.
 
-## Usage & Feedback
+## Usage
 
 * **Play & Fork:** Feel free to download, adapt, house-rule, or build upon any document in this collection for your own chains.
 
